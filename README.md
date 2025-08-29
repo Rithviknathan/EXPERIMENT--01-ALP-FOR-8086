@@ -174,6 +174,7 @@ MOV [3005H],AX
 HLT
 ```
 ## Output
+<img width="2559" height="1599" alt="Screenshot 2025-08-29 153632" src="https://github.com/user-attachments/assets/171fb046-c087-4683-bce9-aa44f327b465" />
 
 ## NOR alp
 ```
