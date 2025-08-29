@@ -143,12 +143,14 @@ HLT
 ## Output  
 <img width="2559" height="1599" alt="Screenshot 2025-08-22 162711" src="https://github.com/user-attachments/assets/6d053ed4-119c-4313-903f-ca2b878f682c" />
 
+## LOGICAL OPERATIONS
+
 ## TRUTH TABLE FOR LOGICAL OPERATIONS
 
 ![symbols-truth-tables-of-common-logic-gates](https://github.com/user-attachments/assets/6caae067-aca0-4b9c-83e3-d22429c1b3ec)
 
 
-## Logical opertaion
+
 ## AND alp
 ```
 MOV AX,[3001H]
