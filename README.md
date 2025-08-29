@@ -1,7 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
-# Name : RITHVIK S
-# Roll no : 212223100045
-# Date of experiment :
+ Name : RITHVIK S
+ Roll no : 212223100045
+
+ Date of experiment : 29/08/2025
 
 
 
